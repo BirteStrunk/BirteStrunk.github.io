@@ -34,7 +34,8 @@ googlescholar_link: https://scholar.google.de/citations?user=_iweRMIAAAAJ&hl=de&
 
 nav_ext_links: 
  - name: CV
-   url: assets/CV-Birte.pdf
+   url: https://birtestrunk.github.io/assets/CV-Birte.pdf
+   
 
 # Build settings
 #theme:minima
