@@ -34,7 +34,7 @@ For already published work, see my list of [publications](03_publications.markdo
 
 <br />
 <details>
-    <summary>Carbon emissions, inequality and labor supply: A state-level analysis of the role of Veblen effects in carbon inequality (with Till van Treeck)</summary>
+    <summary>Carbon emissions, inequality and labor supply: A US state-level analysis of the role of Veblen effects in carbon inequality (with Till van Treeck)</summary>
     <br />
     This is a project in an early stage. Picking up on work by Jorgenson et al (2017) on income inequality and carbon emissions, we want to investigate potential Veblen effects mediating the relationship between carbon emissions and income inequality via people's labor supply decisions. The hypothesis we want to test is that higher inequality leads to people working longer hours and that those longer hours are connected to increased carbon emissions. Since we are at an early stage, we do not yet have any preliminary results.
 
