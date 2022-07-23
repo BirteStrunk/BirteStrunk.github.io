@@ -7,7 +7,9 @@ title: 'About'
 
 ---
 
-### Hey!
+### Hey there!
+
+<br />
 
 I am Birte, a PhD student in economics at the [New School for Social Research](https://www.newschool.edu/nssr/){:target="_blank"} in New York City, and a research fellow at the [ZOE Institute for future-fit economies](https://zoe-institut.de/en/startpage/){:target="_blank"}. Next to my PhD, I'm also pursuing a Masters in Philosophy at [Fernuniversität Hagen](https://www.fernuni-hagen.de/KSW/portale/maphil/){:target="_blank"}. This fall semester, I am doing a research fellowship at [Harvard University](https://gsas.harvard.edu){:target="_blank"}.
 
