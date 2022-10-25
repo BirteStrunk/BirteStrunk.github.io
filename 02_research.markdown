@@ -18,7 +18,7 @@ For already published work, see my list of [publications](03_publications.markdo
 <br />
 
 <details>
-    <summary>Women (and men) in ‘lousy jobs’ – Wage structures, institutions and gender inequality in the US, 1979-2019 (with David Howell)</summary>
+    <summary>Women (and men) in ‘lousy jobs’ – A comparative case study on gender inequality, wage structures and institutions in the US and Germany (with David Howell)</summary>
     <br />
     This is a research project supervised by David Howell, my doctoral advisor. This is the current abstract: Mainstream economic research on the gender wage gap has focused mainly on employment sorting – the allocation of women into different segments of the labor market – and wage discrimination. While these factors are both important sources of the gender wage gaps, they do not consider the kind of job structure people are sorting into. Rather than investigating wage gaps, this paper looks at pay quality incidence indicators that measure the share of workers in ‘lousy jobs’ – those that pay very low wages or in which workers are employed involuntarily part-time. We present a comparative case study of wage structures, institutions and gender inequality in the US and Germany between 1995 and 2019, and focus especially on young (18-34) workers with less than a college degree. Not surprisingly, the lousy job share is higher for women than for men in both countries, yet size of the gap and overall trends vary substantially, with the US consistently performing worse than Germany on the incidence measures. We propose a way to make sense of these cross-country patterns by drawing from institutional perspectives, most notably the varieties of capitalism and the growth models frameworks.
 
@@ -27,7 +27,7 @@ For already published work, see my list of [publications](03_publications.markdo
 
 <br />
 <details>
-    <summary>Carbon emissions, inequality and labor supply: A US state-level analysis of the role of Veblen effects in carbon inequality (with Till van Treeck)</summary>
+    <summary>Carbon emissions, inequality and working hours: A US state-level analysis of the role of Veblen effects in labor supply and emissions (with Till van Treeck)</summary>
     <br />
     This is a research project supervised by Till van Treeck, one of my doctoral advisors. This is the current abstract: In this paper, we contribute to the literature on the link between inequality and emissions in a theoretical framework of social comparison-based utility related to labor supply. Specifically, we investigate potential Veblen effects mediating the relationship between top-end income inequality and carbon emissions via people's labor supply decisions using US state level data from 1979-2018. We test two different hypotheses: firstly, that higher inequality leads to people working longer hours and secondly, that those longer hours are connected to increased carbon emissions. Our results show positive and significant effects for both hypotheses, albeit effect sizes are rather small. While we do not conclude that labor supply is the main channel through which top-end inequality impacts carbon emissions, we argue that labor supply is a piece of the puzzle to understand this association.
 
