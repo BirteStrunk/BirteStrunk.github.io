@@ -8,6 +8,9 @@ permalink: /teaching/
 ## Teaching
 
 ### The New School for Social Research  
+
+*Teaching Fellow* for the student-run department workshop on Bayesian Econometrics.
+
 *Teaching Assistant* for Till van Treeck for the course 'Political Economy of Distribution and Growth: United States and Germany' (2021). 
 
 ### University College Maastricht   
