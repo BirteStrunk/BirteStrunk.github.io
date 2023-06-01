@@ -10,7 +10,9 @@ permalink: /publications/
 
 <br />
 
-[Strunk, B., Ederer, S., & Rezai, A.](https://www.elgaronline.com/view/journals/ejeep/19/1/article-p103.xml){:target="_blank"} (2022). *The role of labor in a socio-ecological transition: combining post-Keynesian and ecological economics perspectives.* European Journal of Economics and Economic Policies: Intervention, 19(1), 103-118.
+[Gräbner, C., & Strunk, B.](https://www.tandfonline.com/doi/full/10.1080/00213624.2023.2201640){:target="_blank"} (2023). Degrowth and the Global South? How Institutionalism can Complement a Timely Discourse on Ecologically Sustainable Development in an Unequal World. *Journal of Economic Issues, 57*(2), 476-483.
+
+[Strunk, B., Ederer, S., & Rezai, A.](https://www.elgaronline.com/view/journals/ejeep/19/1/article-p103.xml){:target="_blank"} (2022). The role of labor in a socio-ecological transition: combining post-Keynesian and ecological economics perspectives. *European Journal of Economics and Economic Policies: Intervention, 19*(1), 103-118.
 
 [Dengler, C. & Strunk, B.](https://www.e-elgar.com/shop/gbp/handbook-of-critical-environmental-politics-9781839100666.html){:target="_blank"} (2022). *Feminisms and the Environment.* In: Pellizzoni, Luigi; Leonardi, Emanuele; Asara, Viviana (Eds.): Handbook for Critical Environmental Politics. Cheltenham: Edward Elgar Publishing.
 
