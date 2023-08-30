@@ -32,14 +32,6 @@ For already published work, see my list of [publications](03_publications.markdo
     This is a research project supervised by Till van Treeck, one of my doctoral advisors. This is the current abstract: In this paper, we contribute to the literature on the link between inequality and emissions in a theoretical framework of social comparison-based utility related to labor supply. Specifically, we investigate potential Veblen effects mediating the relationship between top-end income inequality and carbon emissions via people's labor supply decisions using US state level data from 1979-2018. We test two different hypotheses: firstly, that higher inequality leads to people working longer hours and secondly, that those longer hours are connected to increased carbon emissions. Our results show positive and significant effects for both hypotheses, albeit effect sizes are rather small. While we do not conclude that labor supply is the main channel through which top-end inequality impacts carbon emissions, we argue that labor supply is a piece of the puzzle to understand this association.
 
 
-</details>
-
-<br />
-<details>
-    <summary>Degrowth and the Global South: The twin problem of global dependencies (with Claudius Gräbner)</summary>
-    <br />
-    In this paper, Claudius Gräbner and I conduct a qualitative as well as quantitative content analysis on the degrowth literature relating to the Global South. While degrowth is primarily a concept and call to action by and for the Global North, it has often been pointed out that it has its roots in post-development thinking from the South, and that degrowth in the North be part and parcel of remedying ecological debt. Nonetheless, in a globally entangled world, degrowth in the North might also have adverse effects on the South. We find that even though structural dependencies are used as a core motivation and justification for degrowth in the North, less attention is paid to potentially adverse short-term effects of degrowth in the North on the South. The existence of these should not be used to negate the necessity of degrowth in the North but implies the need for constructive engagement of the degrowth discourse with these matters. We propose a range of topics and tools that the degrowth literature might want to take into account more in the future as to move forward in analyzing the flipside of global dependencies, i.e. those global institutional structures that lock in growth dynamics in both the Global North and South.
-
 
 </details>
 <br />
