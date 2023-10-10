@@ -36,16 +36,6 @@ For already published work, see my list of [publications](03_publications.markdo
 </details>
 <br />
 <details>
-    <summary>Post-growth dialectics: A post-growth transition as a threat or a promise?</summary>
-    <br />
-    This is a paper that I submitted to journal and which is currently under review. In it, I make the argument that the discourse around a post-growth transition entails a core dialectic: The narrative around the shift can be framed in terms of threat or promise. Both stories are inherently contradictory, while both being true. Although it is conventional wisdom that any transition implies both challenges and opportunities, the task of this paper is specifically to work out how the degrowth discourse can systematically be structured around being threat- or promise-focused, and that the differences in focus imply different ethics: while the threat narrative implies what I call an ‘ethics of constraint’, the promise narrative is based on an ‘ethics of abundance’. Being clear about the two different tales of degrowth transitions, I argue in the paper, is relevant to navigate the challenge ahead without getting (too) lost in misunderstandings and cross-talking.
-
-
-
-
-</details>
-<br />
-<details>
     <summary>The Sin of Omission in the Economics of Climate Change</summary>
     <br />
     This is a paper I wrote for a class in Economic Sociology, and I am working on making it ready for submission. In it, I argue that the discipline of economics is committing a sin of omission in its thinking about climate change. Picking up on the notion of ‘sin of omission’ by Akerlof (2020), I criticize the discipline’s narrow and one-dimensional focus, which is especially problematic when it comes to tackling climate change. In fact, the mainstream response to the climate emergency is deeply embedded in concepts such as utility-maximising and scarcity thinking, which leads to a framing of the climate emergency as a 'market failure', and the proposed solution of 'pricing externalities'. As I show in this paper, however, these very concepts are part and parcel of the history of climate change and its entanglement with the rise of capitalism. Addressing the climate emergency, thus, urgently needs tools that think about economic matters outside of the narrow confines of the economic mainstream. In this article, I show how heterodox contributions, especially from ecological and feminist approaches, offer both relevant critiques as well as relevant ways forward for tackling the climate crisis in ways beyond mere 'pricing externalities'. Not considering these perspectives in the discipline of economics, I argue, would constitute a 'sin of omission'.
