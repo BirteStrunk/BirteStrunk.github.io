@@ -21,10 +21,10 @@
 title: Birte Strunk
 email: birte@strunk-mg.de
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Student in Economics at the New School for Social Research, New York
+  PhD Candidate in Economics at the New School for Social Research, New York
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BirteStrunk
+#twitter_username: BirteStrunk
 github_username:  BirteStrunk
 linkedin_username: Birte-Strunk
 # author-website: 
