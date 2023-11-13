@@ -21,6 +21,11 @@ Kirchner, M. & Strunk, B. (2021). *Maßnahmen: Was kann Klimapolitik leisten?* [
 ### Blog articles   
 
 <br />
+
+Developing Economics 2023: [Degrowth and the Global South: Remarks on the twin problem of structural interdependencies](https://developingeconomics.org/2023/11/06/degrowth-and-the-global-south-remarks-on-the-twin-problem-of-structural-interdependencies/){:target="_blank"} together with Claudius Gräbner-Radkowitsch.
+
+Postwachstumsblog 2023: [Degrowth und der Globale Süden](https://www.postwachstum.de/degrowth-und-der-globale-sueden-20231023){:target="_blank"} [Degrowth and the Global South] together with Claudius Gräbner-Radkowitsch.
+
 Developing Economics 2021: [Pluralism in economics – its critiques and their lessons](https://developingeconomics.org/2021/02/03/pluralism-in-economics-its-critiques-and-their-lessons/){:target="_blank"} together with Claudius Gräbner.    
 
 Ökonomenstimme 2020: [Kritik an der Pluralen Ökonomik – Was ist dran und warum ist das wichtig?](https://www.oekonomenstimme.org/artikel/2020/11/kritik-an-der-pluralen-oekonomik--was-ist-dran-und-warum-ist-das-wichtig/?utm_source=feed&utm_medium=main){:target="_blank"} [Critique of plural economics - what is justified and why does it matter?] together with Claudius Gräbner.  
@@ -34,6 +39,11 @@ Degrowth.info 2017: [How a feminist degrowth approach can alleviate ecological a
 ### Presentations and workshops (selection)
 
 <br />
+
+'Pluralism in Economics’, Roundtable speaker at the IIPP Research Seminar Series at University College London, UK (November 2023)
+
+‘Feminist Degrowth’, Speaker at the Rethinking Economics Switzerland Summer Academy in Chandolin, Switzerland (August 2023)
+
 'Introduction to Ecological Economics', Ekonsepto Phillipines Climate Change Webinar (December 2021, online)    
 
 'Introduction to Plural Economics - What is it and why do we need it?', Rethinking Economics Zambia Launch Event (November 2021, online)  
