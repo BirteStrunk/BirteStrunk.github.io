@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### The New School for Social Research  
 
-*Teaching Fellow* for the student-run department workshop on Bayesian Econometrics (Spring 2023).
+*Teaching Fellow* for the class Bayesian Econometrics (Spring 2023, 7 sessions).
 
 *Teaching Assistant* for Till van Treeck for the course 'Political Economy of Distribution and Growth: United States and Germany' (Fall 2021). 
 
