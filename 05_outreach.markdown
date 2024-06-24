@@ -22,6 +22,8 @@ Kirchner, M. & Strunk, B. (2021). *Maßnahmen: Was kann Klimapolitik leisten?* [
 
 <br />
 
+The Conversation 2024: [Quelle place pour le Sud global dans la décroissance?](https://theconversation.com/quelle-place-pour-le-sud-global-dans-la-decroissance-225209){:target="_blank"} together with Claudius Gräbner-Radkowitsch.
+
 Developing Economics 2023: [Degrowth and the Global South: Remarks on the twin problem of structural interdependencies](https://developingeconomics.org/2023/11/06/degrowth-and-the-global-south-remarks-on-the-twin-problem-of-structural-interdependencies/){:target="_blank"} together with Claudius Gräbner-Radkowitsch.
 
 Postwachstumsblog 2023: [Degrowth und der Globale Süden](https://www.postwachstum.de/degrowth-und-der-globale-sueden-20231023){:target="_blank"} [Degrowth and the Global South] together with Claudius Gräbner-Radkowitsch.
