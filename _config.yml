@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+m# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -21,7 +21,7 @@
 title: Birte Strunk
 email: birte@strunk-mg.de
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate in Economics at the New School for Social Research, New York
+  Economist and Philosopher
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: BirteStrunk
