@@ -7,19 +7,19 @@ permalink: /teaching/
 
 ## Teaching
 
+### University College Maastricht   
+I have a year of full-time teaching experience as a *Teaching Fellow* (the equivalent to an adjunct in the US) in the Netherlands (2017-2018). My work included teaching entire courses (along pre-existing syllabi), which included holding all course sessions, grading, and office hours. Moreover, I conducted admission interviews, second-graded BA theses, and contributed to the remodeling of the Research Methods courses and the introduction of the UCM Methods Lab. The teaching method I used was [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning){:target="_blank"} (PBL). Courses I taught over the year were:  
+- Philosophy of Science  
+- Contemporary World History  
+- Theory Construction and Modeling  
+- Research Methods I & II  
+- Research Project
+
 ### The New School for Social Research  
 
 *Teaching Fellow* for the class Bayesian Econometrics (Spring 2023, 7 sessions).
 
 *Teaching Assistant* for Till van Treeck for the course 'Political Economy of Distribution and Growth: United States and Germany' (Fall 2021). 
-
-### University College Maastricht   
-After finishing my BA degree, I worked full-time as a *Junior Teaching Fellow* for two semesters (2017-2018). The work included teaching entire courses (along pre-existing syllabi), which included holding all course sessions, grading, and office hours. Moreover, I conducted admission interviews, second-graded BA theses, and contributed to the remodeling of the Research Methods courses and the introduction of the UCM Methods Lab. The teaching method I used was [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning){:target="_blank"} (PBL). Courses I taught over the year were:  
-- Philosophy of Science  
-- Contemporary World History  
-- Theory Construction and Modeling  
-- Research Methods I & II  
-- Research Project  
 
 
 ### Exploring Economics Summer Academy   
