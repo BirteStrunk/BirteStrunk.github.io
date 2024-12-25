@@ -41,3 +41,20 @@ For already published work, see my list of [publications](03_publications.markdo
 
 
 </details>
+<br />
+<details>
+    <summary>Closing the Economic Gap: A Pluralist Proposal for Critical Theory</summary>
+    <br />
+    This article is a response to Cicerchia’s article [‘Making sense of critical theory’s economic gap’](https://onlinelibrary.wiley.com/doi/10.1111/1467-8675.12758){:target="_blank"}. In her article, Cicerchia argues that part of the problem why current Critical Theory does not have a lot to say about the economy is that it inherited a notion of ‘the economic’ from Max Weber which focuses a lot on instrumental rationality. Since this displaced the 'economy proper' from view, she suggests to turn away from Weber toward Marx. Even though I sympathize with the attempt to broaden the conception of ‘the economic’, I argue that such a move would only fill on alleged gap while opening another. Instead, I therefore argue for a pluralistic account of 'the economy' which includes a conception of it as a site of economic provisioning as well as as a site for economic decision-making. I argue that, while Cicerchia's proposal lends itself to a critical analysis of the former, the focus on instrumental rationality is particularly well-suited to critically analyze the latter. I sketch some directions such an analysis might take, thereby showing that Critical Theory already has the tools at hand to start filling its 'economic gap'.
+ 
+
+
+</details>
+<br />
+<details>
+    <summary>Playfulness in writing: Feminist writing as Socratic practice</summary>
+    <br />
+    Plato promoted playful writing in philosophy. In today’s academy, the most playful form of writing in fields adjacent to philosophy can arguably found in feminist theory. In this paper, I substantiate these two claims and subsequently explore to what extent contemporary feminist writing thus shows explicit traces of a Socratic conception of philosophy. Overall, I argue that it is especially the focus on (the related concepts of) contextuality and ambiguity that may serve as a fruitful lens to interpret feminist philosophy as Socratic in nature. I illustrate that this may account for the fact that both types of writing—Platonic and feminist—make ample use of ‘movement’ in their metaphors as well as overall writing style, and I ultimately argue that the playful way of writing can be interpreted as creating a consistency between content (their respective epistemologies) and form (their presentation). 
+
+
+</details>
