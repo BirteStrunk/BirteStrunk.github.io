@@ -28,7 +28,7 @@ permalink: /publications/
 
 <br />
 
-Strunk, B. (in press). *Degrowth and Decent Work.* In: van der Linden, Marcel; Moore, Madelaine; Scherrer, Christoph (Eds.): Elgar Companion to Decent Work and Sustainable Development Goals. Cheltenham: Edward Elgar Publishing.  
+[Strunk, B.](https://www.e-elgar.com/shop/gbp/the-elgar-companion-to-decent-work-and-the-sustainable-development-goals-9781035300891.html?srsltid=AfmBOoqPUJHek9tTuXCsAriB6VpwnzrFBdk1iwCiNVzMSnAxsupqRk_D){:target="_blank"} (2025). *Degrowth and Decent Work.* In: Moore, Madelaine; Scherrer, Christoph; van der Linden, Marcel (Eds.): Elgar Companion to Decent Work and Sustainable Development Goals. Cheltenham: Edward Elgar Publishing.  
 
 [Dengler, C. & Strunk, B.](https://www.e-elgar.com/shop/gbp/handbook-of-critical-environmental-politics-9781839100666.html){:target="_blank"} (2022). *Feminisms and the Environment.* In: Pellizzoni, Luigi; Leonardi, Emanuele; Asara, Viviana (Eds.): Handbook for Critical Environmental Politics. Cheltenham: Edward Elgar Publishing.  
 
