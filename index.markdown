@@ -14,5 +14,5 @@ I am Birte, an incoming Assistant Professor of Economics at [Bard College](https
 
 As an ecological economist, my [research](02_research.markdown) focuses on linking social and ecological perspectives, especially around questions on labor. As a philosopher, I am particularly interested in exploring Degrowth as a Critical Theory of the economy. In the past, I have [published](/03_publications.markdown) on feminist ecological economics, degrowth and philosophy of (plural) economics. In my free time, I play [foosball](https://dtfb.de/wettbewerbe/dtfl-bundesliga/damen4/bundesliga-damen/tabelle?task=team_details&id=4520){:target="_blank"} competitively, and I like to sing, roller skate, and run.
 
-Feel free to get in touch via [email](mailto:birte@strunk-mg.de)!
+Feel free to get in touch via [email](mailto:bstrunk@bard.edu)!
 
