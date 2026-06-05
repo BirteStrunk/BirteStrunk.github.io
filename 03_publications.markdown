@@ -12,6 +12,8 @@ permalink: /publications/
 
 <br />
 
+[Gräbner-Radkowitsch, C., & Strunk, B.](https://www.degruyterbrill.com/document/doi/10.1515/ngs-2025-0026/html) (2026). Short-Term Trade Dependencies of the Global South as an Obstacle to Degrowth? Quantifying the Twin Challenge of Global Dependencies. *New Global Studies*
+
 [Strunk, B.](https://www.degrowthjournal.org/publications/2023-10-09-between-limits-and-abundance-a-degrowth-transition-as-a-threat-or-a-promise/){:target="_blank"} (2023). Between limits and abundance: A degrowth transition as a threat or a promise? *Degrowth Journal, 1*.  
 
 [Gräbner-Radkowitsch, C., & Strunk, B.](https://www.sciencedirect.com/science/article/pii/S0921800923002094){:target="_blank"} (2023). Degrowth and the Global South: The twin problem of global dependencies. *Ecological Economics, 213*, 1-20.  
