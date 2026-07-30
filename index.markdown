@@ -10,7 +10,7 @@ title: 'About'
 ### Hey there!
 <br />
 
-I am Birte, an Assistant Professor of Economics at [Bard College](https://www.bard.edu){:target="_blank"}, New York. I hold a PhD in economics from the [New School for Social Research](https://www.newschool.edu/nssr/){:target="_blank"} and master's degrees in both economics and philosophy. As an ecological economist, my [research](02_research.markdown) focuses on linking social and ecological perspectives, especially around questions on labor. In the past, I have [published](/03_publications.markdown) on feminist ecological economics, degrowth and philosophy of (plural) economics. 
+I am Birte, an Assistant Professor of Economics at [Bard College](https://www.bard.edu){:target="_blank"}, New York. I hold a PhD in economics from the [New School for Social Research](https://www.newschool.edu/nssr/){:target="_blank"} and master's degrees in both economics and philosophy. As an economist, my [research](02_research.markdown) focuses on linking social and ecological perspectives, especially around questions on labor. In the past, I have [published](/03_publications.markdown) on feminist ecological economics, degrowth and philosophy of (plural) economics. 
 
 Since 2024, I've been moreover pursuing a second PhD in philosophy at the [New School](https://www.newschool.edu/nssr/){:target="_blank"} (currently on leave). As a philosopher, I am particularly interested in early Frankfurt School critiques of the economy, and in exploring Degrowth as a Critical Theory of the economy. 
 
